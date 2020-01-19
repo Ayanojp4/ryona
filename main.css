@@ -1,0 +1,59 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: #2c2a2b;
+  margin: 0px;
+  height: 100%;
+}
+
+h1 {
+  margin: 0px;
+}
+
+button, table {
+  border-style: none;
+  outline: none;
+}
+
+#menu {
+  width: 460px;
+  min-height: 100%;
+  float: left;
+}
+
+#title {
+  font-family: YuGothic,Yu Gothic;
+  font-size: 70px;
+  color: #efdab9;
+}
+
+#title-menu {
+  width: 560px;
+}
+
+.title-button, .game-button {
+  border-radius: 10px;
+  color: #574c4f;
+  background-color: #efeae1;
+  padding: 10px 10px;
+  margin: 10px;
+  font-size: 30px;
+  width: 400px;
+}
+
+.Mtext {
+  font-family: YuMincho,Yu Mincho;
+  color: #efdab9;
+}
+
+.Gtext {
+  font-family: YuGothic,Yu Gothic;
+  color: #efdab9;
+}
+
+.profile {
+  font-size: 20px;
+  color: #efdab9;
+}
