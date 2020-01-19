@@ -3,3 +3,5 @@
 - 本ソフトは2019年に公開されたバージョンから修正されていません。
 ## ブラウザ版
 https://ayanojp4.github.io/ryona/
+## お問い合わせ
+https://twitter.com/ayanojp4
